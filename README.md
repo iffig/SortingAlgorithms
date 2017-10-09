@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-This is repo contains information, examples, and implementations of sorting algorithms in Python. 
+This repo contains information, examples, and implementations of sorting algorithms in Python. 
 
 ## Getting Started
 
